@@ -4,8 +4,12 @@
 [![author](https://img.shields.io/badge/Author-Shaikh%20Hasnain-orange.svg)](https://www.hasnainshaikh404.com/)
 [![made-with-Arduino](https://img.shields.io/badge/Made%20with-Arduino-yellow.svg)](https://www.arduino.cc/)
 
+**:blue_heart: Open Source**
+
 # Automatic-Smart-Irrigation-System
 A system that estimates and measures the moisture of soil in order to operate an irrigation system, restoring water as needed while minimizing excess water use and help the user to monitor the data for further use.
+
+<p align="center"><img src="media/Parts%20used.png" /></p>
 
 ## Objective
 * To design an automatic irrigation system thereby saving time & power for the farmer.
@@ -85,3 +89,5 @@ A system that estimates and measures the moisture of soil in order to operate an
 * Enter the password of the Wi-Fi network.
 * Enter the ThingSpeak Channel ID and API_Key.
 
+
+_If using any part of the code/idea/repository, mention us in comments and in reference._:blush:
